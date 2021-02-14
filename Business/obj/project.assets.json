@@ -6182,11 +6182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Yılmaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6205,11 +6205,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Entities\\Entities.csproj"
             }
           }
         }

@@ -6335,11 +6335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Yılmaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6358,14 +6358,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Business\\Business.csproj"
+            "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Yılmaz\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Yılmaz\\Documents\\GitHub\\myfinalproject\\Entities\\Entities.csproj"
             }
           }
         }
