@@ -11,7 +11,6 @@ namespace Business.Concrete
     public class ProductManager : IProductService
     {
         IProductDal _productDal;
-        private InMemoryProductDal ınMemoryProductDal;
 
         public ProductManager(IProductDal productDal)
         {
