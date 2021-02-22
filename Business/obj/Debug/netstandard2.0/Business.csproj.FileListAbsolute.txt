@@ -26,3 +26,5 @@ C:\Users\Yılmaz\Documents\GitHub\myfinalproject\Business\obj\Debug\netstandard2
 C:\Users\Yılmaz\Documents\GitHub\myfinalproject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\Yılmaz\Documents\GitHub\myfinalproject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\Yılmaz\Documents\GitHub\myfinalproject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Yılmaz\Documents\GitHub\myfinalproject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Yılmaz\Documents\GitHub\myfinalproject\Business\bin\Debug\netstandard2.0\Core.pdb
