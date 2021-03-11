@@ -36,3 +36,4 @@ C:\Users\Yılmaz\Documents\GitHub\myfinalproject\ConsoleUI\obj\Debug\netcoreapp2
 C:\Users\Yılmaz\Documents\GitHub\myfinalproject\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.pdb
 C:\Users\Yılmaz\Documents\GitHub\myfinalproject\ConsoleUI\bin\Debug\netcoreapp2.1\Core.dll
 C:\Users\Yılmaz\Documents\GitHub\myfinalproject\ConsoleUI\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Yılmaz\Documents\GitHub\myfinalproject\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.genruntimeconfig.cache

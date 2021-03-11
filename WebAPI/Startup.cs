@@ -41,7 +41,8 @@ namespace WebAPI
             }
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseMvc();//bu önceden 2.0 dı dimi evet  2017 den 2019a geçtim bu düzelmez ama söyle yapılır Yeni web api olusturur sun buranın içeriğini oraya tasırız şöyle wbapıden mi yoksa coredan mı hata veriyor .net standdar 2.0 o
+            //web apiden dolayı sadece web api ekleme çözer sorunu tamamdır hocam eyvalllah halledeyim yeni webapı acayım  istersen ben bakayım sıkıntı olmaşın vaktin varsa elbette zaten yeni açmıştım
         }
     }
 }
