@@ -32,10 +32,10 @@ namespace Business.Concrete
 
         public IDataResult<List<Product>> GetAll()
         {
-            /*if (DateTime.Now.Hour==22)
+            if (DateTime.Now.Hour==00)
             {
                 return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
-            }*/
+            }
             return new DataResult<List<Product>>(_productDal.GetAll(),Messages.ProductListed);   
         }
 
